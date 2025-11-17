@@ -38,9 +38,11 @@ Você precisará de dois terminais abertos para executar o backend e o frontend 
 - Node.js e npm
 -
 **1.** Executando o Backend (API)
+
       1. Navegue até a raiz do projeto (onde está o pom.xml).
       
       2. Instale as dependências e inicie o servidor Spring Boot:
+      
       ```bash
       ./mvnw spring-boot:run
       ```
@@ -49,14 +51,17 @@ Você precisará de dois terminais abertos para executar o backend e o frontend 
 
       
 **2.** Executando o Frontend (Vue.js)
+
      1. Abra um novo terminal.
      
      2. Navegue até a pasta do frontend:
+     
      ```bash
      cd frontend/app-tarefas
      ```
      
      3. Instale o http-server (se ainda não o tiver) e inicie-o:
+     
      ```bash
      # Instala o servidor (apenas na primeira vez)
      npm install -g http-server
