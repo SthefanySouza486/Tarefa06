@@ -4,7 +4,7 @@ Projeto full-stack de um sistema simples de "Lista de Tarefas" (To-Do List), uti
 Este projeto implementa um CRUD (Create, Read, Update, Delete) completo para gerenciar tarefas, com o frontend consumindo a API REST criada no backend. A comunicação é habilitada via CORS.
 
 
-##🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 Este projeto é dividido em duas partes principais:
 
 **Backend (API)**
